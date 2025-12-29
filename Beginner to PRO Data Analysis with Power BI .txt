@@ -1,0 +1,58 @@
+Geo - Amount - bar --trim
+Amount - sales persons
+Amount - Team  -- blank special
+salespersons -- sales amount
+measure - total amount - sum(sales'amount')
+slice -- teams
+vistual setting
+
+Total boxes = sum(sales[box]))
+amount per box = [total amount] / [total boxes]
+
+amount per box - conditional format databars
+		- max mount custom
+
+WOW factor
+
+for above - add picture 
+format picture column as image url
+change image size
+
+bar - amount - category
+format - edit inteaction - no interaction
+
+amount - geo -- bar
+
+add tiles and logs
+
+slicer setting - drop down
+
+change titles of vi
+
+forecast and trends
+
+sales trends and forecast
+line chat - date 
+
+measure - total customers = sum(sales[customer])
+click fork dril down - quarterly,month
+
+trend of customers by category
+add category to above in legend 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
